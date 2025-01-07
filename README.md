@@ -21,6 +21,7 @@
 
 
 
+
 | **Building Name**     | **Build Time** | **Cost (Gold)** | **Cost (Lumber)** | **Hitpoints** | **Required Buildings**       | **Research Options**    | **Unit Train Options**    | **Upgraded From**   |
 |-----------------------|----------------|-----------------|-------------------|---------------|-----------------------------|--------------------------|---------------------------|---------------------|
 | **Human Keep**        | 3000           | 800             | 400               | 3000          | human_stables, human_blacksmith | peasants_bows            | human_peasant             | human_townhall      |
@@ -32,8 +33,7 @@
 | **Human Townhall**    | 3000           | 600             | 200               | 1500          | human_barracks               | peasants_bows            | human_peasant             | none                |
 | **Human Wall**        | 0              | 0               | 0                 | 800           | none                         | none                     | none                      | none                |
 | **Human Blacksmith**  | 2500           | 400             | 200               | 1000          | none                         | footman_shields          | human_cannon              | none                |
-
-
+| **Human Barracks**    | 3000           | 400             | 400               | 1500          | none                         | none                     | human_footman, human_archer, human_knight | none                |
 
 
 
