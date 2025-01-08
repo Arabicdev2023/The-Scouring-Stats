@@ -1,7 +1,7 @@
 # Tips:
 **Building lumbermill increases wood gathering by 50%**
-
 **Farms Income: 1 worker= 60 food/minute, 2 workers= 90 food/minute, 3 workers = 120 food/minute**
+**Cannons won't fire if friendly units are in the path**
 
 # The-Scouring-Stats
 
