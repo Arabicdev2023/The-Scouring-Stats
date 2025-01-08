@@ -1,6 +1,8 @@
+# Tips:
+**Building lumbermill increases wood gathering by 50%**
+
 # The-Scouring-Stats
 
-**Building lumbermill increases wood gathering by 50%**
 
 | **Unit**           | **Cost** | **HP** | **HP/Tier** | **Atk Dmg** | **Atk Rng** | **Move Spd** | **Sight Rng** | **Train Time** | **Upkeep**      | **Exp (Kill)** | **Exp (Tier 2)** | **Exp (Tier 3)** |
 |--------------------|----------|--------|-------------|-------------|-------------|--------------|---------------|----------------|-----------------|-----------------|------------------|------------------|
