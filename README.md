@@ -1,10 +1,16 @@
 # First Mod for The Scouring!
 **1 new unit for each faction**
+
 **Capture opponent barracks & castles, train their units & workers**
+
 **Cannon rework**
+
 **More food cap & income, Make larger armies!**
+
 **More blood**
+
 **Balance Changes**
+
 [Download Now](https://drive.google.com/file/d/1AKm2AIQCf01Y3c-XLDp1LbKVtf6qWmTL/view?usp=sharing)
 
 
