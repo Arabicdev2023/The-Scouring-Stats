@@ -3,6 +3,7 @@
 **Archers can go on opponent roof**  
 **Capture opponent barracks & castles, train their units & workers**  
 **Cannon rework**  
+**Hotkeys rework**  
 **More food cap & income, Make larger armies!**  
 **More blood**  
 **Balance Changes**  
