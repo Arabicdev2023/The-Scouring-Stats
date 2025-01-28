@@ -7,6 +7,7 @@
 **More food cap & income, Make larger armies!**  
 **More blood**  
 **Balance Changes**  
+**Custom abilitlies for units**  
 **Train better workers by upgrading town halls**  
 
 
