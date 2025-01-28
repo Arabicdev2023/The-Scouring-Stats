@@ -8,7 +8,7 @@
 **More blood**  
 **Balance Changes**  
 
-Replace your game files with these files: [Download Now](https://drive.google.com/file/d/1AKm2AIQCf01Y3c-XLDp1LbKVtf6qWmTL/view?usp=sharing) (last updated: 1/27/2025)
+Replace your game files with these files: [Download Now](https://drive.google.com/file/d/1AKm2AIQCf01Y3c-XLDp1LbKVtf6qWmTL/view?usp=sharing) (last updated: 1/28/2025)
 
 
 
