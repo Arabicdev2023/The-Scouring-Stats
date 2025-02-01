@@ -57,6 +57,13 @@ Replace your game files with these files: [Download Now](https://drive.google.co
 | **Forest Wolf**         | 160         | 16                  | 28              | 400            | 25                      | 10                | 4                 | 1.4              | Melee              |
 
 
+| **Research**         | **Cost (Gold)** | **Cost (Lumber)** | **Time to Research** |
+|----------------------|----------------|-------------------|----------------------|
+| **Peasants' Bows**   | 600            | 200               | 1000                 |
+| **Footman Shields**  | 400            | 200               | 1500                 |
+| **Knights' Healing** | 800            | 0                 | 1500                 |
+| **Cannon Artillery** | 600            | 400               | 1500                 |
+
 
 
 | **Building Name**     | **Build Time** | **Cost (Gold)** | **Cost (Lumber)** | **Hitpoints** | **Required Buildings**       | **Research Options**    | **Unit Train Options**    | **Upgraded From**   |
