@@ -63,6 +63,7 @@ Replace your game files with these files: [Download Now](https://drive.google.co
 | **Footman Shields**  | 400            | 200               | 1500                 |
 | **Knights' Healing** | 800            | 0                 | 1500                 |
 | **Cannon Artillery** | 600            | 400               | 1500                 |
+| **Footman Charge**   | 400            | 0                 | 1500                 |
 
 
 
