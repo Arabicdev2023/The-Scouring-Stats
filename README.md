@@ -23,7 +23,16 @@ to remove the mod from your game, just check file integrity in steam
 
 **Farms Income: 1 worker= 60 food/minute, 2 workers= 90 food/minute, 3 workers = 120 food/minute**
 
-**Cannons won't fire if friendly units are in the path**
+**Cannons won't fire if friendly units are in the path**  
+
+| **Tip** | **Details** |
+|---------|------------|
+| **Where do skeletons spawn?** | Skeletons spawn at night in sectors where players or their buildings have a presence. They do not spawn directly near the player but rather in unseen locations within active sectors. |
+| **How many skeletons spawn?** | The number of skeletons depends on player presence in a sector and accumulated deaths. More player units and buildings increase skeleton spawns. If player units die in a sector, skeleton spawn rates increase. |
+| **How do skeletons spawn?** | They appear in unseen areas using a search pattern to find walkable, unobserved terrain. If an eligible spot is found, a skeleton is placed there. |
+| **How to reduce skeleton spawns?** | Try to have full vision over your area to limit the spawn direction of skeletons to a specific location where you don't have vision (fog of war). |
+| **Do skeletons target anything specific?** | No, they do not specifically seek out players but are spawned in response to player presence. Their numbers are influenced by past engagements in a sector. |
+
 
 # The-Scouring-Stats
 
