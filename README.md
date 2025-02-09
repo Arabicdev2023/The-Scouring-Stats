@@ -19,7 +19,8 @@ to remove the mod from your game, just check file integrity in steam
 **Mass archers with poitions and decent micro**  
 **Good practice for people before playing online**  
 
-Replace your game files with these files: [Download Now](https://drive.google.com/file/d/1n-5rB1uEGpm81rbzWQ3IXOb4vFRsUhvt/view?usp=sharing) (last updated: 2/7/2025)  
+Defensive: [Download Now](https://drive.google.com/file/d/1n-5rB1uEGpm81rbzWQ3IXOb4vFRsUhvt/view?usp=sharing) (last updated: 2/7/2025)  
+Offensive: [Download Now](https://drive.google.com/file/d/1aVT4auZV0QYS8BbT5XxzzoljNhkyWsOo/view?usp=sharing) (last updated: 2/8/2025) 
 to remove the mod from your game, just check file integrity in steam
 
 # Offical Game Section:
