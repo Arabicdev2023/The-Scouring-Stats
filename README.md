@@ -16,7 +16,7 @@ to remove the mod from your game, just check file integrity in steam
 
 # Enhanced AI mod
 **Barrack + lumbermill opener**  
-**Mass archers with poitions and decent micro**  
+**Mass archers with potions and decent micro**  
 **Good practice for people before playing online**  
 
 Defensive: [Download Now](https://drive.google.com/file/d/1n-5rB1uEGpm81rbzWQ3IXOb4vFRsUhvt/view?usp=sharing) (last updated: 2/7/2025)  
@@ -24,8 +24,9 @@ Offensive: [Download Now](https://drive.google.com/file/d/1aVT4auZV0QYS8BbT5Xxzz
 to remove the mod from your game, just check file integrity in steam  
 
 **Knight Opener**  
-**Mass knights with poitions and decent micro**  
+**Mass knights with potions and decent micro**  
 **Good practice for people before playing online**  
+
 Offensive: [Download Now](https://drive.google.com/file/d/114dFHWvMo9euc_tbNKNyzUxaYqGGqLqk/view?usp=sharing) (last updated: 2/9/2025)  
 to remove the mod from your game, just check file integrity in steam 
 
