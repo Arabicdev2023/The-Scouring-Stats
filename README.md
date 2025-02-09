@@ -23,6 +23,8 @@ Defensive: [Download Now](https://drive.google.com/file/d/1n-5rB1uEGpm81rbzWQ3IX
 Offensive: [Download Now](https://drive.google.com/file/d/1aVT4auZV0QYS8BbT5XxzzoljNhkyWsOo/view?usp=sharing) (last updated: 2/8/2025)  
 to remove the mod from your game, just check file integrity in steam  
 
+
+
 **Knight Opener**  
 **Mass knights with potions and decent micro**  
 **Good practice for people before playing online**  
