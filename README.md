@@ -10,10 +10,6 @@
 **Custom abilitlies for units**  
 **Train better workers by upgrading town halls**  
 
-**[little balanced]**  
-Replace your game files with these files: [Download Now](https://drive.google.com/file/d/1AKm2AIQCf01Y3c-XLDp1LbKVtf6qWmTL/view?usp=sharing) (last updated: 2/4/2025)  
-
-
 **[this will be used for the tournament]**  
 Replace your game files with these files: [Download Now](https://drive.google.com/file/d/19Y_cb9C2QICDtWN3HBjQPk8nAp6b-v4y/view?usp=sharing) (last updated: 2/9/2025)  
 
