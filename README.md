@@ -1,5 +1,5 @@
 # First Mod for The Scouring!
-**1 new unit for each faction**  
+**2 new unit for each faction**  
 **Archers can go on opponent roof**  
 **Capture opponent barracks & castles, train their units & workers**  
 **Cannon rework**  
