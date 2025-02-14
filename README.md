@@ -85,11 +85,11 @@ to remove the mod from your game, just check file integrity in steam
 
 | **Research**         | **Cost (Gold)** | **Cost (Lumber)** | **Time to Research** |
 |----------------------|----------------|-------------------|----------------------|
-| **Peasants' Bows**   | 600            | 200               | 1000                 |
+| **Peasants' Bows**   | 200            | 100               | 700                 |
 | **Footman Shields**  | 400            | 200               | 1500                 |
 | **Knights' Healing** | 800            | 0                 | 1500                 |
 | **Cannon Artillery** | 600            | 400               | 1500                 |
-| **Footman Charge**   | 400            | 0                 | 1500                 |
+| **Footman Charge**   | 400            | 0                 | 800                 |
 
 
 
