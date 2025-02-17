@@ -98,7 +98,7 @@ to remove the mod from your game, just check file integrity in steam
 | **Human Keep**        | 3000           | 800             | 400               | 3000          | human_stables, human_blacksmith | peasants_bows            | human_peasant             | human_townhall      |
 | **Human Church**      | 2500           | 600             | 200               | 1000          | human_castle                 | knights_healing          | human_peasant             | none                |
 | **Human Farm**        | 1500           | 200             | 100               | 400           | none                         | none                     | none                      | none                |
-| **Human Lumbermill**  | 2500           | 400             | 200               | 1000          | none                         | none                     | none                      | none                |
+| **Human Lumbermill**  | 2500           | 400             | 200               | 1000          | none                         | archers_damage                     | none                      | none                |
 | **Human Stables**     | 2500           | 400             | 200               | 1000          | human_keep                   | none                     | none                      | none                |
 | **Human Tower**       | 2000           | 200             | 100               | 600           | none                         | none                     | none                      | none                |
 | **Human Townhall**    | 3000           | 600             | 200               | 1500          | human_barracks               | peasants_bows            | human_peasant             | none                |
