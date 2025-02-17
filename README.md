@@ -69,18 +69,18 @@ to remove the mod from your game, just check file integrity in steam
 | **Unit**           | **Cost**     | **HP** | **HP/Tier** | **Atk Dmg** | **Attacks Every** | **Atk Rng** | **Move Spd** | **Sight Rng** | **Train Time** | **Upkeep**    | **Exp (Kill)** | **Exp (Tier 2)** | **Exp (Tier 3)** |
 |--------------------|-------------|--------|-------------|-------------|------------------|-------------|-------------|--------------|---------------|--------------|--------------|----------------|----------------|
 | **Peasant** (with bows upgrade)       | 100G / 0L    | 60     | +30         | 7           | 1.0 sec         | 20          | 6           | 28           | 400           | 10 food      | 5            | 30             | 60             |
-| **Footman**       | 100G / 0L    | 140    | +40         | 7           | 0.6 sec         | 1.6         | 7           | 28           | 400           | 8 food       | 25           | 30             | 60             |
-| **Archer**        | 100G / 40L    | 60     | +30         | 8           | 1.2 sec         | 28          | 7           | 34           | 400           | 8 food       | 20           | 40             | 80             |
+| **Footman**       | 100G / 0L    | 140    | +40         | 6           | 0.6 sec         | 1.6         | 7           | 28           | 400           | 8 food       | 25           | 30             | 60             |
+| **Archer**        | 80G / 40L    | 60     | +30         | 8           | 1.2 sec         | 28          | 7           | 34           | 400           | 8 food       | 20           | 40             | 80             |
 | **Knight**        | 220G / 40L   | 240    | +40         | 12          | 0.6 sec         | 2.0         | 9           | 28           | 600           | 12 food      | 35           | 30             | 60             |
 | **Cannon**        | 260G / 80L   | 240    | -           | 15          | 4.0 sec         | 36          | 5           | 30           | 800           | 16 food      | 50           | -              | -              |
 
 | **Unit**               | **HP**      | **Awareness Range** | **Sight Range** | **Train Time** | **Experience For Kill** | **Movement Speed** | **Attack Damage** | **Attack Range** | **Attack Type**     |
 |------------------------|-------------|---------------------|-----------------|----------------|-------------------------|-------------------|-------------------|------------------|--------------------|
-| **Outpost Bandit**      | 100         | 8                   | 28              | 250            | 25                      | 7                 | 5                | 1.6              | Melee              |
+| **Outpost Bandit**      | 100         | 8                   | 28              | 250            | 25                      | 7                 | 4                | 1.6              | Melee              |
 | **Goblin**              | 60          | 16                  | 24              | 250            | 20                      | 7                 | 5                 | 22               | Ranged             |
 | **Skeleton**            | 60          | 16                  | 24              | 200            | 15                      | 5                 | 4                 | 1.6              | Melee              |
 | **Cave Troll**          | 600         | 12                  | 24              | 600            | 125                     | 9                 | 20                | 2.0              | Melee              |
-| **Forest Wolf**         | 160         | 16                  | 28              | 400            | 25                      | 10                | 7                 | 1.4              | Melee              |
+| **Forest Wolf**         | 160         | 16                  | 28              | 400            | 25                      | 10                | 6                 | 1.4              | Melee              |
 
 
 | **Research**         | **Cost (Gold)** | **Cost (Lumber)** | **Time to Research** |
