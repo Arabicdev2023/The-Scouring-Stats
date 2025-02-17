@@ -90,6 +90,7 @@ to remove the mod from your game, just check file integrity in steam
 | **Knights' Healing** | 800            | 0                 | 1500                 |
 | **Cannon Artillery** | 600            | 400               | 1500                 |
 | **Footman Charge**   | 400            | 0                 | 800                 |
+| **Archers Damage**   | 400            | 0                 | 1500                 |
 
 
 
