@@ -11,7 +11,7 @@
 **Train better workers by upgrading town halls**  
 
 **[this will be used for the tournament]**  
-Replace your game files with these files: [Download Now](https://drive.google.com/file/d/19Y_cb9C2QICDtWN3HBjQPk8nAp6b-v4y/view?usp=sharing) (last updated: 2/13/2025)  
+Replace your game files with these files: [Download Now](https://drive.google.com/file/d/19Y_cb9C2QICDtWN3HBjQPk8nAp6b-v4y/view?usp=sharing) (last updated: 2/22/2025)  
 
 
 
