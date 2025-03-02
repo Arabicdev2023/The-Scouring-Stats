@@ -60,7 +60,13 @@ to remove the mod from your game, just check file integrity in steam
 | **Can you still make units while starving?** | Yes, as long as you have enough resources, but new units will also suffer from the starvation penalties. |
 | **How to prevent starvation?** | Always have enough peasants farming. If your food supply is low, **prioritize building farms** before training more units. |
 
-
+**Archers info**
+| **Level** | **Base Damage** | **Damage with Research (+3 Base Attack)** |  
+|----------|---------------|----------------------------------|  
+| **1**    | 8             | **11**                          |  
+| **2**    | 12            | **15**                          |  
+| **3**    | 16            | **19**                          |  
+  
 
 # The-Scouring-Stats
 
