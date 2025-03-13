@@ -13,7 +13,8 @@
 **[this will be used for the tournament]**  
 Replace your game files with these files: [Download Now](https://drive.google.com/file/d/19Y_cb9C2QICDtWN3HBjQPk8nAp6b-v4y/view?usp=sharing) (last updated: 2/22/2025)  
 
-
+# Survival mod  
+**Easy:** [Download Now](https://drive.google.com/file/d/1bmCr7mDnzt-3ay8d-hxpl2GgwKoZYpK8/view?usp=sharing) (last updated: 3/13/2025)  
 
 # Enhanced AI mod
 **Barrack + lumbermill opener**  
