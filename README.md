@@ -75,45 +75,46 @@ to remove the mod from your game, just check file integrity in steam
 
 | **Unit**           | **Cost**     | **HP** | **HP/Tier** | **Atk Dmg** | **Attacks Every** | **Atk Rng** | **Move Spd** | **Sight Rng** | **Train Time** | **Upkeep**    | **Exp (Kill)** | **Exp (Tier 2)** | **Exp (Tier 3)** |
 |--------------------|-------------|--------|-------------|-------------|------------------|-------------|-------------|--------------|---------------|--------------|--------------|----------------|----------------|
-| **Peasant** (with bows upgrade)       | 100G / 0L    | 60     | +30         | 7           | 1.0 sec         | 20          | 6           | 28           | 400           | 10 food      | 5            | 30             | 60             |
-| **Footman**       | 100G / 0L    | 140    | +40         | 6           | 0.6 sec         | 1.6         | 7           | 28           | 400           | 8 food       | 25           | 30             | 60             |
-| **Archer**        | 80G / 40L    | 60     | +30         | 8           | 1.2 sec         | 28          | 7           | 34           | 400           | 8 food       | 20           | 40             | 80             |
-| **Knight**        | 220G / 40L   | 240    | +40         | 12          | 0.6 sec         | 2.0         | 9           | 28           | 600           | 12 food      | 35           | 30             | 60             |
-| **Cannon**        | 260G / 80L   | 240    | -           | 15          | 4.0 sec         | 36          | 5           | 30           | 800           | 16 food      | 50           | -              | -              |
+| **Peasant** (with bows upgrade)       | 100G / 0L    | 60     | -           | 8           | 1.6 sec         | 20          | 6           | 28           | 12            | 10 food      | 5            | -              | -              |
+| **Footman**       | 100G / 0L    | 140    | +40         | 6           | 0.6 sec         | 1.6         | 7           | 28           | 12            | 8 food       | 25           | 30             | 60             |
+| **Archer**        | 80G / 40L    | 60     | +30         | 8           | 1.2 sec         | 28          | 7           | 34           | 12            | 8 food       | 20           | 40             | 80             |
+| **Knight** (Cavalier)        | 240G / 40L   | 240    | +40         | 12          | 0.6 sec         | 2.0         | 9           | 28           | 20            | 12 food      | 35           | 30             | 60             |
+| **Cannon**        | 260G / 80L   | 240    | -           | 15          | 4.0 sec         | 36          | 5           | 30           | 25            | 16 food      | 50           | -              | -              |
+
 
 | **Unit**               | **HP**      | **Awareness Range** | **Sight Range** | **Train Time** | **Experience For Kill** | **Movement Speed** | **Attack Damage** | **Attack Range** | **Attack Type**     |
-|------------------------|-------------|---------------------|-----------------|----------------|-------------------------|-------------------|-------------------|------------------|--------------------|
-| **Outpost Bandit**      | 100         | 8                   | 28              | 250            | 25                      | 7                 | 4                | 1.6              | Melee              |
-| **Goblin**              | 60          | 16                  | 24              | 250            | 20                      | 7                 | 5                 | 22               | Ranged             |
-| **Skeleton**            | 60          | 16                  | 24              | 200            | 15                      | 5                 | 4                 | 1.6              | Melee              |
-| **Cave Troll**          | 600         | 12                  | 24              | 600            | 125                     | 9                 | 20                | 2.0              | Melee              |
-| **Forest Wolf**         | 160         | 16                  | 28              | 400            | 25                      | 10                | 6                 | 1.4              | Melee              |
+|------------------------|-------------|---------------------|-----------------|----------------|-------------------------|--------------------|-------------------|------------------|---------------------|
+| **Outpost Bandit**     | 100         | 8                   | 28              | —              | 25                      | 7                  | 5                 | 1.6              | Melee               |
+| **Goblin**             | 60          | 16                  | 26              | 8              | 20                      | —                  | 5                 | 22               | Ranged              |
+| **Cave Troll**         | 600         | 12                  | 24              | —              | 125                     | 9                  | 20                | 1.6              | Melee               |
+| **Forest Wolf**        | 160         | 16                  | 28              | 12             | 25                      | 10                 | 6                 | 1.4              | Melee               |
 
 
 | **Research**         | **Cost (Gold)** | **Cost (Lumber)** | **Time to Research** |
-|----------------------|----------------|-------------------|----------------------|
-| **Peasants' Bows**   | 200            | 100               | 700                 |
-| **Footman Shields**  | 400            | 200               | 1500                 |
-| **Knights' Healing** | 800            | 0                 | 1500                 |
-| **Cannon Artillery** | 600            | 400               | 1500                 |
-| **Footman Charge**   | 400            | 0                 | 800                 |
-| **Archers Damage**   | 400            | 0                 | 1500                 |
+|----------------------|-----------------|-------------------|----------------------|
+| **Peasants' Bows**   | 200             | 100               | 25                   |
+| **Footman Shields**  | 400             | 200               | 50                   |
+| **Knights' Healing** | 800             | 0                 | 50                   |
+| **Cannon Artillery** | 600             | 400               | 50                   |
+| **Footman Charge**   | 400             | 0                 | 25                   |
+| **Archers Damage**   | 600             | 0                 | 50                   |
+| **Feudal Reform**    | 800             | 0                 | 35                   |
 
 
 
-| **Building Name**     | **Build Time** | **Cost (Gold)** | **Cost (Lumber)** | **Hitpoints** | **Required Buildings**       | **Research Options**    | **Unit Train Options**    | **Upgraded From**   |
-|-----------------------|----------------|-----------------|-------------------|---------------|-----------------------------|--------------------------|---------------------------|---------------------|
-| **Human Keep**        | 3000           | 800             | 400               | 3000          | human_stables, human_blacksmith | peasants_bows            | human_peasant             | human_townhall      |
-| **Human Church**      | 2500           | 600             | 200               | 1000          | human_castle                 | knights_healing          | human_peasant             | none                |
-| **Human Farm**        | 1500           | 200             | 100               | 400           | none                         | none                     | none                      | none                |
-| **Human Lumbermill**  | 2500           | 400             | 200               | 1000          | none                         | archers_damage                     | none                      | none                |
-| **Human Stables**     | 2500           | 400             | 200               | 1000          | human_keep                   | none                     | none                      | none                |
-| **Human Tower**       | 2000           | 200             | 100               | 600           | none                         | none                     | none                      | none                |
-| **Human Townhall**    | 3000           | 600             | 200               | 1500          | human_barracks               | peasants_bows            | human_peasant             | none                |
-| **Human Wall**        | 0              | 0               | 0                 | 800           | none                         | none                     | none                      | none                |
-| **Human Blacksmith**  | 2500           | 400             | 200               | 1000          | none                         | footman_shields          | human_cannon              | none                |
-| **Human Barracks**    | 3000           | 400             | 400               | 1500          | none                         | none                     | human_footman, human_archer, human_knight | none                |
 
+| **Building Name**     | **Build Time** | **Cost (Gold)** | **Cost (Lumber)** | **Hitpoints** | **Required Buildings**           | **Research Options**          | **Unit Train Options**                 | **Upgraded From**     |
+|-----------------------|----------------|-----------------|-------------------|---------------|---------------------------------|------------------------------|---------------------------------------|-----------------------|
+| **Human Barracks**    | 60             | 400             | 400               | 1500          | none                            | none                         | human_footman,human_archer,human_cavalier | none                  |
+| **Human Blacksmith**  | 80             | 400             | 200               | 1000          | none                            | footman_shields,cannon_artillery | human_cannon                          | none                  |
+| **Human Keep**        | 100            | 800             | 400               | 3000          | human_stables,human_blacksmith  | peasants_bows,feudal_reform  | human_peasant                        | human_fort            |
+| **Human Church**      | 80             | 600             | 200               | 1000          | human_castle                    | cavalier_cure                | none                                 | none                  |
+| **Human Farm**        | 50             | 200             | 100               | 400           | none                            | none                         | none                                 | none                  |
+| **Human Fort**        | 60             | 400             | 200               | 2000          | human_barracks                  | peasants_bows                | human_peasant                        | human_townhall        |
+| **Human Lumbermill**  | 80             | 400             | 200               | 1000          | none                            | archers_damage               | none                                 | none                  |
+| **Human Stables**     | 80             | 400             | 200               | 1000          | human_fort                     | none                         | none                                 | none                  |
+| **Human Tower**       | 30             | 200             | 100               | 600           | none                            | none                         | none                                 | none                  |
+| **Human Townhall**    | 100            | 600             | 200               | 1500          | none                            | peasants_bows                | human_peasant                        | none                  |
 
 
 
